@@ -22,14 +22,14 @@ seanphilip04@gmail.com
     </tr>
   </thead>
   <tbody>
-    <!-- <tr>
+    <tr>
       <td align="center">
         <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td valign="text-top">Puzzle games under pressure.</td> <!--desc-->
       <td valign="text-top">It's Pong.</td> <!--desc-->
