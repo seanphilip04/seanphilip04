@@ -17,33 +17,34 @@ seanphilip04@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Lockdown</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Lockdown</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <td align="center">
         <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
       </td>
+    </tr> -->
+    <tr>
+      <td valign="text-top">Puzzle games under pressure.</td> <!--desc-->
+      <td valign="text-top">It's Pong.</td> <!--desc-->
     </tr>
     <tr>
-      <td valign="text-top">Puzzle game.</td> <!--desc-->
-      <td valign="text-top">Pong.</td> <!--desc-->
+      <td align="center"><a href="https://dextah241.itch.io/lockdown">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://dextah241.itch.io/space-pong">Read More</a></td> <!--link 4-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://dextah241.itch.io/lockdown">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://dextah241.itch.io/space-pong">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="">Trailer</a></td> <!--link2-->
-    </tr>
+    <!-- <tr>
+      <td align="center"><a href="">Trailer</a></td>
+      <td align="center"><a href="">Trailer</a></td>
+    </tr> -->
   </tbody>
 </table>
+
 
 
 <br>
@@ -73,10 +74,10 @@ seanphilip04@gmail.com
       <td align="center"><a href="https://dextah241.itch.io/topdown">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://dextah241.itch.io/caver">Read More</a></td> <!--link 4-->
     </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="">Trailer</a></td> <!--link 4-->
-    </tr>
+    <!-- <tr>
+      <td align="center"><a href="">Trailer</a></td>
+      <td align="center"><a href="">Trailer</a></td>
+    </tr> -->
   </tbody>
 </table>
 
