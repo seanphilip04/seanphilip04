@@ -1,9 +1,9 @@
 Hi, I'm Sean
 ---
 **📌About** <br>
-Specializations/skills
+Programmer, a little bit of am  artist
 
-Passions
+I've always liked video games and wondered about what goes on behind the scenes so here I am.
 
 **📩Email** <br>
 seanphilip04@gmail.com
