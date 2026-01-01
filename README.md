@@ -1,7 +1,7 @@
 Hi, I'm Sean
 ---
 **📌About** <br>
-Programmer, a little bit of am  artist
+Programmer, a little bit of an  artist
 
 I've always liked video games and wondered about what goes on behind the scenes so here I am.
 
